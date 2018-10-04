@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Water
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "SemanticTyping", "SemanticTyping.elements", "{FFFE6417-5FD4-4E1D-854D-F0EAD8777A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFE6417-5FD4-4E1D-854D-F0EAD8777A3F}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{FFFE6417-5FD4-4E1D-854D-F0EAD8777A3F}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{FFFE6417-5FD4-4E1D-854D-F0EAD8777A3F}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{FFFE6417-5FD4-4E1D-854D-F0EAD8777A3F}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
